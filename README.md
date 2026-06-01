@@ -6,7 +6,7 @@
 
 GitHub Pages:
 
-https://vincent-zhengwen.github.io/listing-agent-eval-center/
+https://vincent-zhengwen.github.io/product-listing-agent-eval-center/
 
 本地直接打开:
 
