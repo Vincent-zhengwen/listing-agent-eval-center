@@ -84,12 +84,12 @@ test('standalone eval center exposes demo and lite code package', () => {
   }
 
   const homeHtml = fs.readFileSync(path.join(projectRoot, 'index.html'), 'utf8');
-  assert.match(homeHtml, /货郎评测中心 Demo/);
+  assert.match(homeHtml, /商品上架内容生成 Agent 评测中心 Demo/);
   assert.match(homeHtml, /最新一轮实验概览/);
 
   const readme = fs.readFileSync(path.join(projectRoot, 'README.md'), 'utf8');
   assert.match(readme, /eval-platform-lite/);
-  assert.match(readme, /Listing Agent/);
+  assert.match(readme, /商品上架内容生成 Agent/);
 });
 
 test('public package excludes private runtime artifacts', () => {

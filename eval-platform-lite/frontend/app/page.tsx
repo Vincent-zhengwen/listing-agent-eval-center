@@ -235,7 +235,7 @@ export default function Home() {
         <div>
           <h1 style={{ fontSize: 22, fontWeight: 700, margin: 0 }}>评测中心</h1>
           <p style={{ color: "var(--muted)", fontSize: 13, marginTop: 4 }}>
-            面向多模态 Listing Agent 迭代的诊断式 Eval Harness
+            面向商品上架内容生成 Agent 迭代的诊断式 Eval Harness
           </p>
         </div>
         <div style={{ display: "flex", gap: 8 }}>

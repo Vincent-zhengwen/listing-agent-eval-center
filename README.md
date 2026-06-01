@@ -1,6 +1,6 @@
-# 货郎 Listing Agent 评测中心
+# 商品上架内容生成 Agent 评测中心
 
-这是一个面向商品上架 Agent 的评测中心公开版。它展示如何用数据集、实验、Trace、Grader、Failure Coding 和值班报告，把一个长链路 Listing Agent 做成可诊断、可回归、可持续迭代的 AI 产品。
+这是一个面向「商品上架内容生成 Agent」的评测中心公开版。它展示如何用数据集、实验、Trace、Grader、Failure Coding 和值班报告，把一个长链路商品上架内容生成 Agent 做成可诊断、可回归、可持续迭代的 AI 产品。
 
 ## 在线 Demo
 
@@ -16,7 +16,7 @@ https://vincent-zhengwen.github.io/listing-agent-eval-center/
 
 ## 它在评测什么
 
-评测对象是「货郎商品上架内容生成 Agent」输出的一套 listing package，包括：
+评测对象是「商品上架内容生成 Agent」输出的一套 listing package，包括：
 
 - 商品标题
 - 商品属性

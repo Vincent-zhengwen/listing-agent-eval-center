@@ -3,7 +3,7 @@ import Sidebar from "@/components/Sidebar";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "货郎评测中心",
+  title: "商品上架内容生成 Agent 评测中心",
   description: "Diagnostic eval harness for Listing Agent",
 };
 
