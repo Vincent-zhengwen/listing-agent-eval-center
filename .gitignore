@@ -1,0 +1,16 @@
+.DS_Store
+.env
+.env.*
+*.log
+node_modules/
+.next/
+dist/
+coverage/
+tmp/
+*.sqlite
+*.sqlite-*
+*.db
+*.db-*
+eval-platform-lite/backend/.venv/
+eval-platform-lite/frontend/.next/
+eval-platform-lite/frontend/node_modules/
